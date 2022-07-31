@@ -1,0 +1,23 @@
+@media (max-width: 620px) {
+    .op-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+}
+
+.btn-seta {
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista-op{
+    height: 480px;
+}
+
+.card .imagem-op {
+    max-height: 230px;
+}
